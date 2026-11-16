@@ -7,3 +7,4 @@
 ## Лабораторные работы
 
 1. [Иерархический анализ](lab1_hierarchical_analysis/README.md)
+2. [Кластеризация методом k-средних](lab2_kmeans/README.md)
